@@ -86,5 +86,5 @@ let r = 5
 q>r ? console.log("q is greater"): console.log("r is greater")
 
 age = 17
-let q1 = age>= 18? "can drive": "cannot drive"
+let q1 = age >= 18? "can drive": "cannot drive"
 console.log(q1)
